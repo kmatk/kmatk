@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kevin M Atkinson
+- 👋 Hi, I’m Kevin Atkinson
 - 👀 I’m interested in SQL, Python, Java.
 - 🌱 I’m currently learning to be a Data Scientist.
 - 💞️ I’m looking to collaborate on nothing just yet, but maybe soon.
